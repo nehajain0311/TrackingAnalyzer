@@ -1,0 +1,20 @@
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+.header{
+    text-align:center;
+}
+.subhead{
+text-align:center;
+}
+
+button:submit{
+background-color:red;
+}
+
+
+
+
+
